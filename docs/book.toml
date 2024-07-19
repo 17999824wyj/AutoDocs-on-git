@@ -1,0 +1,6 @@
+[book]
+authors = ["wangyijia"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "【笔记】abcd1234 - 笔记合集"
